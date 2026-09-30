@@ -1,28 +1,149 @@
-# Hi 👋, I'm Yash Kulshreshtha
+<div align="center">
 
-### A passionate developer from around the world
+# 👋 Hi, I'm Yash Kulshreshtha
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yashkulshreshtha14&label=Profile views&color=0e75b6&style=flat" alt="Yashkulshreshtha14" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Python+Developer;Data+Science+Enthusiast;AI%2FML+Learner;Building+Real-World+Projects;Always+Learning+Something+New" />
 
-- 🔭 I'm currently working on **Data Science and Python projects**
-
-- 👯 I'm looking to collaborate on **Python, Data Science, AI/ML and open-source projects**
-
-- 🤝 I'm looking for help with **Machine Learning and real-world Data Science projects**
-
-- 💬 Ask me about **Python, Data Science and AI/ML**
-
-- 📫 How to reach me **yashkulshreshtha14@gmail.com**
-
-- ⚡ Fun fact ** I’m a college student who loves learning new technologies and building projects**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Yashkulshreshtha14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Yashkulshreshtha14" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/yashkulshreshtha14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashkulshreshtha14" height="30" width="40" /></a>
-<a href="https://instagram.com/yashhhh_vibes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yashhhh_vibes" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Yashkulshreshtha14&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/amplify" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pug" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pug" alt="pug" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+</div>
 
+---
+
+<table>
+<tr>
+
+<td width="60%" valign="middle">
+
+## 👨‍💻 About Me
+
+I'm a college student passionate about **Python, Data Science, Artificial Intelligence and Machine Learning**.
+
+I enjoy turning ideas into practical projects and continuously exploring new technologies.
+
+### 🚀 What I'm Doing
+
+- 🔭 Currently working on **Python & Data Science projects**
+- 🌱 Currently learning **Machine Learning & Artificial Intelligence**
+- 🤝 Open to collaborating on **Python, AI/ML, Data Science & Open Source projects**
+- 💬 Ask me about **Python, Data Science & AI/ML**
+- 🎯 Interested in building **real-world technology**
+- ⚡ Fun fact: **I love turning ideas into working projects**
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="./assets/yash-profile-animation.gif" width="380" alt="Yash Kulshreshtha">
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Programming & Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,arduino,flutter,git,github,vscode" />
+</p>
+
+### 📊 Data Science & AI/ML
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Python • Data Analysis • Machine Learning • Artificial Intelligence**
+
+### 🎨 Other Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=photoshop" />
+</p>
+
+---
+
+# 🚀 Areas I'm Interested In
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🐍
+**Python Development**
+
+</td>
+
+<td align="center" width="25%">
+
+### 📊
+**Data Science**
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+**Artificial Intelligence**
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+**Machine Learning**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🔌
+**IoT & Arduino**
+
+</td>
+
+<td align="center">
+
+### 📱
+**App Development**
+
+</td>
+
+<td align="center">
+
+### 🌐
+**Open Source**
+
+</td>
+
+<td align="center">
+
+### 💡
+**Real-World Projects**
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📚 Currently Learning
+
+```text
+Python
+ ├── Data Analysis
+ ├── Data Science
+ ├── Machine Learning
+ └── Artificial Intelligence
