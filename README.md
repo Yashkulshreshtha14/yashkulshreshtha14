@@ -1,25 +1,67 @@
+<!-- ========================= -->
+<!--        HEADER             -->
+<!-- ========================= -->
+
+<div align="center">
+
+<img src="profile.gif" width="180" alt="Yash Profile">
+
+# Hi 👋, I'm Yash Kulshreshtha
+
+### 🎓 BCA Data Science Student | 📊 Data Science Enthusiast | 🤖 AI/ML Learner
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=BCA+Data+Science+Student;Exploring+Data+Science;Learning+Python+%26+Machine+Learning;Building+Real-World+Projects;Always+Learning+Something+New" alt="Typing SVG">
+
+</div>
+
+---
+
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="65%">
+- 🎓 I'm currently pursuing **BCA in Data Science**
+- 🌱 Currently learning **Python, Data Science & Machine Learning**
+- 📊 Interested in **Data Analysis, AI/ML and Data Science**
+- 🚀 Exploring real-world projects and new technologies
+- 🤝 Open to collaborating on **Data Science, AI/ML & Open Source projects**
+- 💡 I enjoy learning by building and experimenting
+- ⚡ Always curious to learn, build and improve
 
-🎓 BCA Data Science student
+---
 
-💻 Interested in Data Science, AI/ML & Technology
+## 🛠️ Technologies & Tools
 
-🌱 Currently learning Python, Data Science & Machine Learning
+### 💻 Programming
+<p>
+<img src="https://skillicons.dev/icons?i=python,sql" />
+</p>
 
-🚀 Exploring real-world projects
+### 📊 Data Science & Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-🤝 Open to collaborating on AI/ML, Data Science & Open Source projects
+**Learning & Exploring:**
 
-</td>
+`NumPy` • `Pandas` • `Matplotlib` • `Machine Learning`
 
-<td width="35%" align="center">
+### 🔧 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-<img src="./assets/yash.gif" width="250">
+---
 
-</td>
-</tr>
-</table>
+## 🚀 What I'm Working Towards
+
+```text
+Data Science
+     ↓
+Python
+     ↓
+Data Analysis
+     ↓
+Machine Learning
+     ↓
+AI / ML Projects
+     ↓
+Real-World Solutions
